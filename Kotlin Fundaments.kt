@@ -1,6 +1,4 @@
-Aquí tienes tu código traducido completamente al **inglés**, manteniendo la lógica original de cada sección:
 
-```kotlin
 //1. Introduction and basic syntax
 
 fun main() {
