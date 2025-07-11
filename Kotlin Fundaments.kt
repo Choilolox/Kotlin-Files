@@ -157,6 +157,6 @@ fun main() {
         println(item)
     }
 }
-```
 
-¿Te gustaría que te lo entregue en **PDF** o con comentarios explicativos en cada sección?
+
+
